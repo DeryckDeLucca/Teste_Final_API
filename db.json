@@ -1,0 +1,35 @@
+{
+  "gon": [
+    {
+      "id": 1,
+      "GInfo1": "Determinado"
+      "GInfo2": "Ingênuo"
+      "GInfo3": "Curioso"
+      "GInfo4": "Corajoso"
+      "GInfo5": "Bondoso"
+      "GInfo6": "Energético"
+    }
+  ],
+  "killua": [
+    {
+      "id": 2,
+      "KIInfo1": "Assassino e protetor"
+      "KIInfo2": "Inteligente e ágil"
+      "KIInfo3": "Amigo e sarcástico"
+      "KIInfo4": "Leal e corajoso"
+      "KIInfo5": "Rebelde e independente"
+      "KIInfo6": "Estratégico e engenhoso"
+    }
+  ],
+  "kurapika": [
+    {
+      "id": 3,
+      "KUInfo1": "Vingativo e inteligente"
+      "KUInfo2": "Resiliente e justo"
+      "KUInfo3": "Dedicado e misterioso"
+      "KUInfo4": "Calmo e calculista"
+      "KUInfo5": "Determinado e meticuloso"
+      "KUInfo6": "Leal e estratégico"
+    }
+  ],
+}
